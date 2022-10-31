@@ -1,1 +1,1 @@
-ded_morozzz_minsk..github.io.
+ded_morozzz_minsk.github.io
