@@ -61,7 +61,7 @@ $(document).ready(function() {
     $(".countdown")
         .countdown("2022/12/31", function(event) {
             $(this).html(
-                event.strftime('<div>%w <span>Недель</span></div>  <div>%D <span>Дней</span></div>  <div>%H<span>Часов</span></div> <div>%M<span>Минут</span></div> <div>%S<span>Секунд</span></div>')
+                event.strftime('<div class="d-none">%w <span>Недель</span></div>  <div>%D <span>Дней</span></div>  <div>%H<span>Часов</span></div> <div>%M<span>Минут</span></div> <div>%S<span>Секунд</span></div>')
             );
         });
 
