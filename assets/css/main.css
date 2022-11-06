@@ -173,7 +173,7 @@ ul.nosyely_list {
 .brand_item img {
   display: block;
   max-width: 130px;
-  margin: 0 auto;
+  margin-left: 20px;
 }
 .brand_item:hover {
   opacity: 1;
@@ -1647,14 +1647,14 @@ header .logo {
 }
 header .logo img {
   float: left;
-  max-width: 300px;
+  max-width: 250px;
   margin-right: 0px;
 }
 header .tel_mob {
   font-size: 20px;
   color: #FFFFFF;
   font-weight: 700;
-  margin-left: 50px;
+  margin-left: 30px;
 }
 header ul.menu li a.nav-link {
   padding: 20px 12px !important;
@@ -2741,21 +2741,19 @@ Cover
 -------------------------------------------------------- */
 .counter_box {
   text-align: left;
-  margin: 25px 0;
   padding: 15px 5px;
 }
 .counter_box span, .counter_box .counter {
   font-size: 48px;
   display: inline-block;
-  margin: 0;
+  margin-top: 10px;
   color: #f50136;
   font-weight: 600;
 }
 .counter_box h5 {
-  font-weight: 500;
-  text-transform: capitalize;
   margin: 0;
-  font-size: 14px;
+  font-size: 12px;
+  font-weight: 700;
   color: #18181c;
   margin-top: 15px;
 }
