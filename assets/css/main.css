@@ -2508,6 +2508,94 @@ Cover
 }
 
 /*  ----------------------------------------------------
+6 gallery
+-------------------------------------------------------- */
+.gallery_box {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+}
+.gallery_box .gallery_img {
+  position: relative;
+  overflow: hidden;
+}
+.gallery_box .gallery_img img {
+  width: auto;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+.gallery_box .gallery_img .info_box {
+  position: absolute;
+  bottom: 25px;
+  background-color: rgba(24, 24, 28, 0.71);
+  padding: 10px 30px;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+.gallery_box .gallery_img .info_box .name {
+  color: #f50136;
+  font-size: 18px;
+  margin-bottom: 0;
+  font-weight: 600;
+  text-transform: capitalize;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+.gallery_box .gallery_img .info_box .position {
+  font-size: 16px;
+  color: #ffffff;
+}
+.gallery_box .speaker_social {
+  padding: 50px;
+}
+.gallery_box .speaker_social ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.gallery_box .speaker_social ul li {
+  display: inline-block;
+  margin-left: 4px;
+}
+.gallery_box .speaker_social ul li a {
+  border: solid 1px #f50136;
+  display: block;
+  border-radius: 50px;
+  padding: 7px 0;
+  font-size: 24px;
+  color: #f50136;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+.gallery_box .speaker_social ul li a:hover {
+  color: #ffffff;
+  background-color: #f50136;
+}
+.gallery_box:hover .gallery_img img {
+  width: 100%;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+/*.gallery_box:hover .gallery_img .info_box {*/
+/*  background-color: #f50136;*/
+/*  -webkit-transition: all ease-in-out 0.4s;*/
+/*  transition: all ease-in-out 0.4s;*/
+/*}*/
+/*.gallery_box:hover .gallery_img .info_box .name {*/
+/*  color: #ffffff;*/
+/*  -webkit-transition: all ease-in-out 0.4s;*/
+/*  transition: all ease-in-out 0.4s;*/
+/*}*/
+/*.gallery_box:hover .gallery_img .info_box .position {*/
+/*  color: #ffffff;*/
+/*}*/
+
+
+/*  ----------------------------------------------------
 7 Price box
 -------------------------------------------------------- */
 .price_box {
@@ -2544,26 +2632,32 @@ Cover
 .price_box .price_tag {
   padding: 15px 0;
   text-transform: capitalize;
-  color: #18181c;
+  color: #fafa21;
   font-size: 48px;
   font-weight: 700;
 }
 .price_box .price_tag sup {
   font-size: 24px;
-  font-weight: 400;
+  font-weight: 700;
   top: -15px;
   left: -7px;
-  color: #838383;
+  color: #fafa21;
 }
 .price_box .price_features ul {
   list-style: none;
-  padding: 0;
+  padding-top: 14px;
   margin: 0;
 }
+.price_box .price_features h4 {
+  text-decoration: underline;
+  padding-top: 14px;
+  color: #cc1111;
+  font-weight: 700;
+}
 .price_box .price_features ul li {
-  padding: 7px;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 16px;
+  color: #b44343;
+  font-weight: 700;
 }
 .price_box .price_footer {
   margin-top: 30px;

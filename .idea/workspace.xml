@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: update date." />
+    <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: update date.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +43,7 @@
       <workItem from="1667330391958" duration="1028000" />
       <workItem from="1667411539209" duration="654000" />
       <workItem from="1667670327082" duration="957000" />
+      <workItem from="1667728917998" duration="8568000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create new site ded 2.0">
       <created>1667156468126</created>
@@ -89,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667671389346</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix: update date.">
+      <created>1667729114653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667729114653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
