@@ -1645,6 +1645,9 @@ header .logo {
   padding-top: 0px;
   padding-bottom: 0;
 }
+header .all_logo {
+  display: grid;
+}
 header .logo img {
   float: left;
   max-width: 250px;
@@ -2658,6 +2661,12 @@ Cover
   font-size: 16px;
   color: #b44343;
   font-weight: 700;
+}
+.price_box .price_features .price_text {
+  font-size: 16px;
+  color: #b44343;
+  font-weight: 700;
+  padding-top: 10px;
 }
 .price_box .price_footer {
   margin-top: 30px;
