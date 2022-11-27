@@ -1661,7 +1661,8 @@ header ul.menu li a.nav-link {
   font-size: 15px;
   letter-spacing: 1px;
   font-weight: 400;
-  display: block;
+  display: flex;
+  justify-content: flex-end;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -1808,18 +1809,16 @@ footer .footer_social li a:hover {
   background-color: #f50136;
   color: #ffffff;
 }
-footer ul.instagram_list {
+footer .instagram_list {
   padding: 0;
   margin: 0;
   list-style: none;
 }
-footer ul.instagram_list li {
+footer .instagram_list  {
   display: inline-block;
   width: 60%;
-  margin: 0 0 2% 2%;
-  float: left;
 }
-footer ul.instagram_list li img {
+footer .instagram_list img {
   border-radius: 15%;
 }
 footer .newsletter_form .form-control {

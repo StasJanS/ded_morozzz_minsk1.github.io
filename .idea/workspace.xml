@@ -4,7 +4,6 @@
     <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: update logo and price.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
       <workItem from="1667824956358" duration="7430000" />
       <workItem from="1669470474527" duration="1516000" />
       <workItem from="1669548344777" duration="5865000" />
+      <workItem from="1669574189799" duration="5231000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create new site ded 2.0">
       <created>1667156468126</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667832943782</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix: update logo and price.">
+      <created>1669574367940</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669574367940</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
