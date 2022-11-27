@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: added gallery and price.">
+    <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: update logo and price.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,9 @@
       <workItem from="1667411539209" duration="654000" />
       <workItem from="1667670327082" duration="957000" />
       <workItem from="1667728917998" duration="20597000" />
-      <workItem from="1667824956358" duration="7085000" />
+      <workItem from="1667824956358" duration="7430000" />
+      <workItem from="1669470474527" duration="1516000" />
+      <workItem from="1669548344777" duration="5865000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create new site ded 2.0">
       <created>1667156468126</created>
@@ -116,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667743116189</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fix: update logo and price.">
+      <created>1667832943782</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667832943782</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +148,7 @@
     <MESSAGE value="fix: update fon foto." />
     <MESSAGE value="fix: update date." />
     <MESSAGE value="fix: added gallery and price." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: added gallery and price." />
+    <MESSAGE value="fix: update logo and price." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update logo and price." />
   </component>
 </project>
