@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: added advice.">
-      <change beforePath="$PROJECT_DIR$/.idea/evento.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Morozzz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/bg-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/inner_cover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/slider.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg/tickets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/blog/instagram/inst6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/brands/b5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cleander/c1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cleander/c2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cleander/c3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/events/event3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speakers/s9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/new/fon13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/new/fon15.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +22,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,6 +49,7 @@
       <workItem from="1669548344777" duration="5865000" />
       <workItem from="1669574189799" duration="5356000" />
       <workItem from="1669660146146" duration="1545000" />
+      <workItem from="1669661713082" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create new site ded 2.0">
       <created>1667156468126</created>
@@ -181,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669580786964</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix: added advice.">
+      <created>1669661829956</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669661829956</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
