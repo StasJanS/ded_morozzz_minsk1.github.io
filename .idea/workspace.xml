@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60818b2-3812-4a2d-9f73-b76f9e5359e3" name="Changes" comment="fix: added advice.">
-      <change beforePath="$PROJECT_DIR$/assets/img/new/fon13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/new/fon15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
       <workItem from="1669574189799" duration="5356000" />
       <workItem from="1669660146146" duration="1545000" />
       <workItem from="1669661713082" duration="428000" />
+      <workItem from="1669663550486" duration="667000" />
+      <workItem from="1670758258458" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="feat: create new site ded 2.0">
       <created>1667156468126</created>
@@ -149,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669661829956</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix: added advice.">
+      <created>1669664883913</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669664883913</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix: added advice.">
+      <created>1669664889701</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669664889701</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
