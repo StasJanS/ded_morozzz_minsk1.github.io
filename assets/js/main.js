@@ -59,7 +59,7 @@ $(document).ready(function() {
     });
 
     $(".countdown")
-        .countdown("2023/01/01", function(event) {
+        .countdown("2024/01/01", function(event) {
             $(this).html(
                 event.strftime('<div class="d-none">%w <span>Недель</span></div>  <div>%D <span>Дней</span></div>  <div>%H<span>Часов</span></div> <div>%M<span>Минут</span></div> <div>%S<span>Секунд</span></div>')
             );
